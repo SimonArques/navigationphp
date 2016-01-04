@@ -17,6 +17,9 @@
                 <li >
                     <a href="index.php?page=Temps">Temps</a>
                 </li>
+                <li >
+                    <a href="index.php?page=Login">Login</a>
+                </li>
                 <li class="dropdown pull-right">
                       <a  href="index.php?page=Logout">Logout</a>
                 </li>
