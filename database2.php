@@ -1,7 +1,7 @@
 <?php
 class Database2
 {
-	private static $dbName = 'statmassql';
+	private static $dbName = 'basegami';
 	private static $dbHost = 'localhost';
 	private static $dbUsername = 'simon';
 	private static $dbUserPassword = 'rootsan';
